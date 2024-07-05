@@ -1,0 +1,165 @@
+[{
+        "id": 1,
+        "name": "Story Book",
+        "title": "- Pride and Prejudice by Jane Austen",
+        "price": "Free ",
+        "category": "Free Pass",
+        "More Details": "Pride and Prejudice is the second novel by English author Jane Austen, published in 1813. A novel of manners, it follows the character development of Elizabeth Bennet, the protagonist of the book, who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.",
+        "image": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+
+    {
+        "id": 2,
+        "name": "Classic Literature",
+        "title": "- To Kill a Mockingbird",
+        "price": "Free ",
+        "category": "Free Pass",
+        "More Details": "A timeless classic that explores themes of racial injustice, morality, and empathy in the American South during the 1930s.",
+        "image": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+
+    {
+        "id": 3,
+        "name": "Science Fiction & fantasy ",
+        "title": "- The Name of the Wind",
+        "price": "Free ",
+        "category": "Free Pass",
+        "More Details": "his epic fantasy follows the adventures of Kvothe, a gifted young musician and magician, as he navigates a world of magic, intrigue, and danger.",
+        "image": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+
+    {
+        "id": 4,
+        "name": "Mystery & Thriller",
+        "title": "- Gone Girl by Gilllian Flynn",
+        "price": "Free ",
+        "category": "Free Pass",
+        "More Details": "A gripping psychological thriller that follows the mysterious disappearance of Amy Dunne and the ensuing media frenzy and police investigation, filled with twists, turns, and shocking revelations.",
+        "image": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+
+    {
+        "id": 5,
+        "name": "Non-Fiction",
+        "title": "- Educated by Tara westover",
+        "price": "Free ",
+        "category": "Free Pass",
+        "More Details": "a quirky and compassionate young woman who becomes a caregiver for Will Traynor, a wealthy and adventurous man who becomes paralyzed after a tragic accident.",
+        "image": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+
+    {
+        "id": 6,
+        "name": "Classic Literature",
+        "title": "- To Kill a Mockingbird",
+        "price": "Free ",
+        "category": "Free Pass",
+        "More Details": "",
+        "image": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+
+    {
+        "id": 7,
+        "name": "Classic Literature",
+        "title": "- To Kill a Mockingbird",
+        "price": "Free ",
+        "category": "Free Pass",
+        "More Details": "",
+        "image": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+
+    {
+        "id": 8,
+        "name": "Classic Literature",
+        "title": "To Kill a Mockingbird",
+        "price": "200 ",
+        "category": "Cost",
+        "More Details": "",
+        "image": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+
+    {
+        "id": 9,
+        "name": "Classic Literature",
+        "title": "To Kill a Mockingbird",
+        "price": "199",
+        "category": "Cost",
+        "More Details": "",
+        "image": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+
+    {
+        "id": 10,
+        "name": "Classic Literature",
+        "title": "To Kill a Mockingbird",
+        "price": "299",
+        "category": "Cost",
+        "More Details": "",
+        "image": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+
+    {
+        "id": 11,
+        "name": "Classic Literature",
+        "title": "To Kill a Mockingbird",
+        "price": "300",
+        "category": "Cost",
+        "More Details": "",
+        "image": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+
+    {
+        "id": 12,
+        "name": "Classic Literature",
+        "title": "To Kill a Mockingbird",
+        "price": "99",
+        "category": "Cost",
+        "More Details": "",
+        "image": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+
+    {
+        "id": 13,
+        "name": "Classic Literature",
+        "title": "To Kill a Mockingbird",
+        "price": "150",
+        "category": "Cost",
+        "More Details": "",
+        "image": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+
+    {
+        "id": 14,
+        "name": "Classic Literature",
+        "title": "To Kill a Mockingbird",
+        "price": " Free Pass",
+        "category": "Free",
+        "More Details": "",
+        "image": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+
+    {
+        "id": 15,
+        "name": "Classic Literature",
+        "title": "To Kill a Mockingbird",
+        "price": " Free Pass",
+        "category": "Free",
+        "More Details": "",
+        "image": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF1000,1000_QL80_.jpg"
+
+    }
+]
